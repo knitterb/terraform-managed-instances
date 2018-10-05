@@ -38,4 +38,5 @@ Note: that for this example, the `compute_image` provided must have a web server
 - Allow for named port translations
 - Make the instance group size a variable (currently set to 5)
 - Make the network VPC a variable (currently set to `default`)
-- 
+- Remove public IP from individual compute instances
+- Add in output variables (TBD)
